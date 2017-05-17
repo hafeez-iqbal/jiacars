@@ -12,8 +12,7 @@ published: true
 
 [et_pb_pricing_table title="CAR1" featured="off" header_font_select="default" header_font="||||" body_font_select="default" body_font="||||" subheader_font_select="default" subheader_font="||||" currency_frequency_font_select="default" currency_frequency_font="||||" price_font_select="default" price_font="||||" custom_button="off" button_font_select="default" button_font="||||" button_use_icon="default" button_icon_placement="right" button_on_hover="on" currency="CAD" per="HR" sum="20" button_text="Rent" button_url="https://www.jiahuacarrental.com/Rental"]
 
-<a href="https://www.jiahuacarrental.com/wp-content/uploads/2017/05/02.png"><img class="alignnone size-medium wp-image-78" src="https://www.jiahuacarrental.com/wp-content/uploads/2017/05/02-300x98.png" alt="" width="300" height="180"></a>
-
+<img class="alignnone size-medium wp-image-78" src="https://www.jiahuacarrental.com/wp-content/uploads/2017/05/02-300x98.png" alt="" width="300" height="180">
 <span style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif;">Leather</span>
 <span style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif;">Civic</span>
 <span style="font-size: 12pt; font-family: Arial, Helvetica, sans-serif;">Manual</span>
