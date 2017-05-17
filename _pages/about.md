@@ -8,4 +8,4 @@ layout: page
 permalink: https://www.jiahuacarrental.com/about/
 published: true
 ---
-This is an example of a WordPress page, you could edit this to put information about yourself or your site so readers know where you are coming from. You can create as many pages like this one or sub-pages as you like and manage all of your content inside of WordPress.
+[et_pb_section fb_built="1" background_image="https://www.jiahuacarrental.com/wp-content/uploads/2017/05/57ee0dafb1397.jpg"][et_pb_row custom_padding="0px|0px|241px|0px"][et_pb_column type="1_2" parallax="off" parallax_method="on"][et_pb_pricing_tables][et_pb_pricing_table][/et_pb_pricing_table][/et_pb_pricing_tables][/et_pb_column][et_pb_column type="1_2" parallax="off" parallax_method="on"][et_pb_image src="https://www.jiahuacarrental.com/wp-content/uploads/2017/05/01-1.png" max_width_last_edited="off|desktop"][/et_pb_image][/et_pb_column][/et_pb_row][/et_pb_section]
