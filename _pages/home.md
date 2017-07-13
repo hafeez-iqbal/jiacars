@@ -8,7 +8,7 @@ permalink: https://www.jiahuacarrental.com/
 published: true
 post_date: 2017-02-09 06:01:08
 ---
-[et_pb_section fb_built="1" background_color="#0c0c0c" custom_padding="0px|0px|0px|0px" fullwidth="on" admin_label="section" _builder_version="3.0.47"][et_pb_fullwidth_slider auto="on" auto_ignore_hover="on" background_size="contain" _builder_version="3.0.62"][et_pb_slide background_image="https://www.jiahuacarrental.com/wp-content/uploads/2017/05/01.png" _builder_version="3.0.47"]
+[et_pb_section fb_built="1" background_color="#0c0c0c" custom_padding="0px|0px|0px|0px" fullwidth="on" admin_label="section" _builder_version="3.0.47"][et_pb_fullwidth_slider auto="on" auto_ignore_hover="on" background_size="contain" _builder_version="3.0.62"][et_pb_slide background_image="https://www.jiahuacarrental.com/wp-content/uploads/2017/05/01.png" _builder_version="3.0.47" background_size="initial"]
 
 <a href="https://www.jiahuacarrental.com/wp-content/uploads/2017/05/画板-14.png"><img class="wp-image-145 alignnone size-large" src="https://www.jiahuacarrental.com/wp-content/uploads/2017/05/画板-14-1024x88.png" alt="" width="1024" height="88" /></a>
 
